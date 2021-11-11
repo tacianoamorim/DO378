@@ -1,0 +1,15 @@
+Mon Nov 09 19:27:35 CET 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon Nov 09 19:27:37 CET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-ae43-6acf-00001d2dea00 
+on database directory /home/jordisola/Projects/RedHatTraining/DO378/classroom/materials/solutions/test-review/microservice-schedule/scheds with class loader QuarkusClassLoader:Quarkus Base Runtime ClassLoader 
+Loaded from jar:file:/home/jordisola/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar!/
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.8+10
+user.dir=/home/jordisola/Projects/RedHatTraining/DO378/classroom/materials/solutions/test-review/microservice-schedule
+os.name=Linux
+os.arch=amd64
+os.version=3.10.0-1160.2.2.el7.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+Mon Nov 09 19:27:41 CET 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) shutdown

@@ -1,0 +1,4 @@
+{
+  "upn": "jane",
+  "groups": ["read", "modify"]
+}
